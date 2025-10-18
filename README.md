@@ -1,6 +1,10 @@
 # Medical NLP Analyzer
 
 
+<h2>HOW TO RUN</h2>
+1. pip install requirements.txt 
+2. streamlit run app.py
+
 <h2>DATASETS</h2>
 
 
