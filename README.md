@@ -3,6 +3,7 @@
 
 <h2>HOW TO RUN</h2>
 1. pip install requirements.txt 
+<br>
 2. streamlit run app.py
 
 <h2>DATASETS</h2>
